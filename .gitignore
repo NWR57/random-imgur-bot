@@ -1,0 +1,5 @@
+.replit
+replit.nix
+.config
+build.nix
+run.nix
